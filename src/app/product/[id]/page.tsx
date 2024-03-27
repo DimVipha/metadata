@@ -1,6 +1,7 @@
 import { describe } from "node:test";
 import { title } from "process";
 import React from "react";
+
 export type ParamProps = {
   params: {
     id: number;

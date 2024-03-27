@@ -14,6 +14,7 @@ const config: Config = {
       fontFamily: {
         sans: ['var(--font-inter)'],
         kantumruy: ['var(--font-kantumruy-pro)'],
+        ubuntu: ['var(--font-ubuntu)']
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
